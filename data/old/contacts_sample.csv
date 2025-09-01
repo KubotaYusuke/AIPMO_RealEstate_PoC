@@ -1,0 +1,5 @@
+actor,to,cc,attachments
+Seller,seller@example.com,pmo@example.com,素材テンプレ.pdf
+Agents,agentA@broker.jp; agentB@broker.jp,pmo@example.com,掲載指示.docx
+BuyerA,buyerA@example.com,agentA@broker.jp; pmo@example.com,申込書式.pdf
+Bank,bank担当@example.co.jp,司法書士@example.jp; pmo@example.com,抹消関係書類リスト.xlsx

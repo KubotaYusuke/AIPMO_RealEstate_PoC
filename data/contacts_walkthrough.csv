@@ -1,0 +1,7 @@
+actor,to,cc,attachments
+Seller,seller@example.com,pmo@example.com,要件メモ.xlsx
+Agents,agent1@broker.jp; agent2@broker.jp; agent3@broker.jp; agent4@broker.jp,pmo@example.com,掲載指示.docx
+Movers,movers@example.co.jp,pmo@example.com,搬出計画.pdf
+Cleaners,cleaning@example.co.jp,pmo@example.com,清掃チェックリスト.pdf
+BuyerA,buyerA@example.com,agent1@broker.jp; pmo@example.com,申込書式.pdf
+Bank,bank担当@example.co.jp,司法書士@example.jp; pmo@example.com,ローン書類リスト.xlsx

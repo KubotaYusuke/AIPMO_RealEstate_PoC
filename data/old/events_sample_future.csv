@@ -1,0 +1,5 @@
+event_id,date,actor,category,description,expected_action,success_criteria,risk_level
+E11,2025-09-02,Seller,Prep,写真素材の確定,3社へ素材統一依頼,受領完了/反映,Low
+E12,2025-09-15,Agents,Viewing,内覧開始（同時刻混雑対応）,スロット設計/鍵/動線/注意喚起,苦情ゼロ/内覧率>70%,Medium
+E13,2025-09-30,BuyerA,Offer,一次申込/価格交渉,回答期日/条件表明,明確なYes/No/条件提示,High
+E14,2025-10-15,Bank,Finance,残債確認/抹消手続き段取り,契約日/決済日と連動予約,必要書類確定/期日合意,High

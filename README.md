@@ -62,3 +62,6 @@ Add entries in `app/app.py` and restart.
 
 ## License
 MIT (or choose your own before publishing).
+
+## Release v0.1.0
+- Initial PoC demo (tagged).

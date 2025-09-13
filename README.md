@@ -1,3 +1,38 @@
+## Hackathon submission (Tokyo AI Festival 2025)
+
+- Status: submitted on **2025-09-10**; attending **Demo Day (Sep 13)** as observer.
+- 4-min demo video: <https://www.youtube.com/watch?v=2EWPqylrXTA&t=15s>
+- Slide deck (PDF): ./assets/slides/AIPMO_PoC_slides_v010.pdf
+- Release tag: **v0.1.0**
+
+---
+
+## What this PoC does (1-minute read)
+
+**AI as a calm “pilot” (PMO)** for first-time real-estate sellers.  
+It quietly shows **where you are** and **the next single action**, without alarm fatigue.
+
+- **Action → Pack:** Journey compass + checklist + risks + email draft + Slack snippet + **.ics** (calendar memo includes key points)
+- **KPI (Calm):** green-heavy / minimal red to reduce anxiety; alerts only when truly risky
+- **Optional “Evidence”:** brief references (RAG), shown only when needed
+
+---
+
+## Story & How-to (EN)
+
+- Long-form note (EN): **[Selling a Condo with AI as PMO — Story & Playbook](https://note.com/usekbota/n/n580a95f811f3)**
+  > Why “calm mode” matters, how the journey compass guides decisions, and a step-by-step walk-through.
+- (JP preview available separately)
+
+---
+
+## Quick start
+
+```bash
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+python app/app.py  # http://127.0.0.1:7860
+
 # AI Real Estate PMO (PoC)
 
 Bilingual Gradio app that guides first‑time home sellers through a stepwise journey (Prep → Listing → Viewing → Offer → Finance → Close).
